@@ -36,7 +36,7 @@ FPGA:
 - XC3S1600E
 
 Operating System:
-- Raspberry Pi OS (64-bit)
+- Raspberry Pi OS-lite (64-bit)
 - libgpiod v2
 
 ------------------------------------------------------------
