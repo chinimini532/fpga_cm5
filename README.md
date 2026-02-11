@@ -46,15 +46,14 @@ Operating System:
 
 The following BCM GPIO mapping is used:
 
-+----------------+----------+
-| FPGA Signal    | BCM GPIO |
-+----------------+----------+
-| CCLK           | 25       |
-| INIT           | 27       |
-| DONE           | 22       |
-| DIN            | 24       |
-| PROGRAM        | 23       |
-+----------------+----------+
+| FPGA Signal | BCM GPIO |
+|-------------|----------|
+| CCLK        | 25       |
+| INIT        | 27       |
+| DONE        | 22       |
+| DIN         | 24       |
+| PROGRAM     | 23       |
+
 
 Ensure proper voltage compatibility (3.3V logic).
 
